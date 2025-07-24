@@ -1,0 +1,501 @@
+Liquor_ID,Date,State,City,Brand,Category,Units Sold,Cost Price,Base Price,GST (%),Excise Duty/Ltr,MRP,Distributor,Supply Stage
+,2024-03-09,Delhi,New Delhi,Smirnoff,Vodka,779,320,468,18,200,752.24,Eastern Vintners,Retailer
+,2023-01-02,Delhi,New Delhi,Old Monk,Rum,902,200,301,18,250,605.18,ABC Beverages,Wholesaler
+,2024-10-13,Maharashtra,Pune,Royal Stag,Whisky,544,350,510,18,250,851.8,ABC Beverages,Wholesaler
+,2024-12-02,West Bengal,Siliguri,Smirnoff,Vodka,122,320,495,18,200,784.1,ABC Beverages,Wholesaler
+,2023-12-29,Maharashtra,Pune,Blenders Pride,Whisky,621,400,566,18,250,917.88,IndoSpirits Pvt Ltd.,Retailer
+,2025-11-24,West Bengal,Siliguri,Bacardi,Rum,403,300,480,18,300,866.4,LiquorMart India,Distillery
+,2024-09-21,Delhi,New Delhi,Blenders Pride,Whisky,776,400,485,18,250,822.3,United Distributors Ltd.,Wholesaler
+,2023-09-10,West Bengal,Kolkata,Royal Stag,Whisky,500,350,416,18,200,690.88,Eastern Vintners,Wholesaler
+,2024-03-09,Tamil Nadu,Chennai,Smirnoff,Vodka,739,320,466,18,200,749.88,IndoSpirits Pvt Ltd.,Wholesaler
+,2025-04-21,West Bengal,Kolkata,Royal Stag,Whisky,973,350,472,18,300,856.96,ABC Beverages,Distillery
+,2025-06-21,Punjab,Amritsar,Old Monk,Rum,871,200,282,18,300,632.76,ABC Beverages,Retailer
+,2024-09-21,Karnataka,Bengaluru,Smirnoff,Vodka,221,320,395,18,250,716.1,IndoSpirits Pvt Ltd.,Distillery
+,2023-08-27,Maharashtra,Mumbai,Blenders Pride,Whisky,798,400,520,18,300,913.6,ABC Beverages,Retailer
+,2023-01-15,Punjab,Ludhiana,Smirnoff,Vodka,542,320,371,18,200,637.78,United Distributors Ltd.,Distillery
+,2024-05-17,Tamil Nadu,Coimbatore,Smirnoff,Vodka,885,320,502,18,250,842.36,ABC Beverages,Retailer
+,2024-05-03,Punjab,Ludhiana,Smirnoff,Vodka,265,320,413,18,300,787.34,ABC Beverages,Retailer
+,2023-05-25,Maharashtra,Mumbai,Bacardi,Rum,668,300,494,18,200,782.92,IndoSpirits Pvt Ltd.,Warehouse
+,2023-07-11,Delhi,New Delhi,Blenders Pride,Whisky,195,400,491,18,300,879.38,ABC Beverages,Distillery
+,2025-06-28,Karnataka,Mysuru,Bacardi,Rum,513,300,425,18,300,801.5,ABC Beverages,Distillery
+,2024-01-01,West Bengal,Siliguri,Old Monk,Rum,880,200,306,18,300,661.08,United Distributors Ltd.,Warehouse
+,2023-08-09,Tamil Nadu,Coimbatore,Smirnoff,Vodka,133,320,396,18,300,767.28,United Distributors Ltd.,Retailer
+,2024-02-19,Karnataka,Bengaluru,Smirnoff,Vodka,406,320,459,18,250,791.62,United Distributors Ltd.,Distillery
+,2024-12-03,Delhi,New Delhi,Blenders Pride,Whisky,300,400,490,18,250,828.2,Eastern Vintners,Warehouse
+,2023-08-05,Punjab,Ludhiana,Bacardi,Rum,997,300,492,18,200,780.56,ABC Beverages,Wholesaler
+,2024-07-17,Maharashtra,Mumbai,Smirnoff,Vodka,914,320,455,18,200,736.9,Eastern Vintners,Distillery
+,2025-11-26,Tamil Nadu,Chennai,Royal Stag,Whisky,782,350,504,18,300,894.72,LiquorMart India,Wholesaler
+,2025-06-16,Tamil Nadu,Chennai,Royal Stag,Whisky,570,350,436,18,250,764.48,LiquorMart India,Distillery
+,2025-06-07,Punjab,Amritsar,Old Monk,Rum,295,200,300,18,300,654.0,IndoSpirits Pvt Ltd.,Retailer
+,2025-11-30,Tamil Nadu,Coimbatore,Royal Stag,Whisky,417,350,520,18,200,813.6,ABC Beverages,Warehouse
+,2023-02-09,Tamil Nadu,Chennai,Smirnoff,Vodka,186,320,477,18,200,762.86,LiquorMart India,Warehouse
+,2023-07-17,West Bengal,Siliguri,Royal Stag,Whisky,430,350,459,18,300,841.62,United Distributors Ltd.,Wholesaler
+,2023-12-16,Tamil Nadu,Chennai,Kingfisher,Beer,772,50,105,18,200,323.9,LiquorMart India,Distillery
+,2023-11-30,West Bengal,Siliguri,Bacardi,Rum,388,300,458,18,200,740.44,ABC Beverages,Warehouse
+,2023-07-11,West Bengal,Kolkata,Smirnoff,Vodka,968,320,373,18,300,740.14,United Distributors Ltd.,Wholesaler
+,2024-03-28,Delhi,New Delhi,Smirnoff,Vodka,286,320,491,18,300,879.38,Eastern Vintners,Distillery
+,2023-10-08,West Bengal,Kolkata,Kingfisher,Beer,211,50,144,18,200,369.92,Eastern Vintners,Retailer
+,2025-07-23,Tamil Nadu,Coimbatore,Blenders Pride,Whisky,887,400,509,18,250,850.62,Eastern Vintners,Warehouse
+,2023-09-21,Karnataka,Mysuru,Blenders Pride,Whisky,198,400,454,18,250,785.72,Eastern Vintners,Warehouse
+,2024-10-09,West Bengal,Siliguri,Bacardi,Rum,764,300,369,18,200,635.42,LiquorMart India,Distillery
+,2025-08-14,Punjab,Amritsar,Smirnoff,Vodka,754,320,477,18,300,862.86,ABC Beverages,Wholesaler
+,2024-09-17,Delhi,New Delhi,Kingfisher,Beer,767,50,225,18,200,465.5,IndoSpirits Pvt Ltd.,Distillery
+,2024-03-28,Karnataka,Bengaluru,Royal Stag,Whisky,980,350,489,18,200,777.02,ABC Beverages,Distillery
+,2023-02-08,Karnataka,Mysuru,Old Monk,Rum,555,200,252,18,200,497.36,Eastern Vintners,Warehouse
+,2023-02-15,Karnataka,Mysuru,Royal Stag,Whisky,863,350,450,18,300,831.0,Eastern Vintners,Wholesaler
+,2025-06-10,Delhi,New Delhi,Smirnoff,Vodka,859,320,391,18,200,661.38,LiquorMart India,Distillery
+,2025-02-16,Punjab,Ludhiana,Royal Stag,Whisky,731,350,536,18,300,932.48,LiquorMart India,Wholesaler
+,2023-02-27,Karnataka,Mysuru,Smirnoff,Vodka,280,320,509,18,200,800.62,ABC Beverages,Wholesaler
+,2023-05-13,Maharashtra,Pune,Old Monk,Rum,790,200,393,18,300,763.74,Eastern Vintners,Warehouse
+,2024-06-01,West Bengal,Siliguri,Kingfisher,Beer,649,50,194,18,200,428.92,IndoSpirits Pvt Ltd.,Distillery
+,2025-07-11,Delhi,New Delhi,Smirnoff,Vodka,575,320,474,18,200,759.32,LiquorMart India,Distillery
+,2025-09-22,Delhi,New Delhi,Bacardi,Rum,859,300,385,18,200,654.3,ABC Beverages,Retailer
+,2025-09-18,Karnataka,Bengaluru,Blenders Pride,Whisky,614,400,506,18,200,797.08,LiquorMart India,Retailer
+,2024-12-05,Delhi,New Delhi,Bacardi,Rum,785,300,383,18,250,701.94,ABC Beverages,Distillery
+,2025-06-17,Punjab,Ludhiana,Kingfisher,Beer,945,50,120,18,200,341.6,IndoSpirits Pvt Ltd.,Wholesaler
+,2023-12-20,Punjab,Ludhiana,Smirnoff,Vodka,367,320,519,18,200,812.42,ABC Beverages,Retailer
+,2024-06-26,Maharashtra,Pune,Old Monk,Rum,527,200,311,18,200,566.98,United Distributors Ltd.,Distillery
+,2025-11-18,West Bengal,Siliguri,Old Monk,Rum,577,200,269,18,300,617.42,Eastern Vintners,Wholesaler
+,2023-06-04,Punjab,Amritsar,Blenders Pride,Whisky,574,400,529,18,200,824.22,Eastern Vintners,Warehouse
+,2023-08-02,Maharashtra,Mumbai,Royal Stag,Whisky,905,350,496,18,250,835.28,LiquorMart India,Retailer
+,2024-05-30,Tamil Nadu,Coimbatore,Bacardi,Rum,739,300,423,18,250,749.14,IndoSpirits Pvt Ltd.,Warehouse
+,2024-06-01,Karnataka,Mysuru,Royal Stag,Whisky,470,350,470,18,200,754.6,Eastern Vintners,Warehouse
+,2024-05-03,Delhi,New Delhi,Smirnoff,Vodka,770,320,513,18,200,805.34,Eastern Vintners,Distillery
+,2023-03-23,Maharashtra,Mumbai,Royal Stag,Whisky,317,350,468,18,200,752.24,United Distributors Ltd.,Wholesaler
+,2024-07-18,Delhi,New Delhi,Royal Stag,Whisky,723,350,532,18,200,827.76,LiquorMart India,Warehouse
+,2024-11-18,Delhi,New Delhi,Kingfisher,Beer,191,50,213,18,200,451.34,ABC Beverages,Distillery
+,2023-12-06,Punjab,Amritsar,Old Monk,Rum,909,200,314,18,250,620.52,LiquorMart India,Warehouse
+,2023-01-06,Tamil Nadu,Chennai,Old Monk,Rum,194,200,347,18,300,709.46,Eastern Vintners,Warehouse
+,2024-10-07,West Bengal,Kolkata,Bacardi,Rum,367,300,427,18,200,703.86,IndoSpirits Pvt Ltd.,Wholesaler
+,2024-01-11,West Bengal,Kolkata,Bacardi,Rum,365,300,480,18,300,866.4,United Distributors Ltd.,Retailer
+,2023-01-15,Tamil Nadu,Chennai,Kingfisher,Beer,720,50,179,18,200,411.22,IndoSpirits Pvt Ltd.,Wholesaler
+,2023-02-11,Delhi,New Delhi,Royal Stag,Whisky,310,350,453,18,300,834.54,ABC Beverages,Warehouse
+,2023-01-27,Tamil Nadu,Chennai,Royal Stag,Whisky,981,350,459,18,250,791.62,ABC Beverages,Wholesaler
+,2025-07-21,Maharashtra,Pune,Kingfisher,Beer,377,50,199,18,250,484.82,Eastern Vintners,Retailer
+,2025-03-18,West Bengal,Kolkata,Blenders Pride,Whisky,217,400,533,18,200,828.94,IndoSpirits Pvt Ltd.,Warehouse
+,2025-09-08,Tamil Nadu,Chennai,Blenders Pride,Whisky,552,400,498,18,250,837.64,United Distributors Ltd.,Retailer
+,2024-04-16,Karnataka,Mysuru,Kingfisher,Beer,964,50,191,18,250,475.38,LiquorMart India,Wholesaler
+,2024-07-29,Maharashtra,Pune,Old Monk,Rum,539,200,301,18,250,605.18,Eastern Vintners,Warehouse
+,2024-12-08,Maharashtra,Pune,Blenders Pride,Whisky,524,400,489,18,250,827.02,Eastern Vintners,Distillery
+,2025-08-28,West Bengal,Kolkata,Old Monk,Rum,907,200,285,18,200,536.3,United Distributors Ltd.,Distillery
+,2025-10-17,Punjab,Ludhiana,Smirnoff,Vodka,579,320,482,18,300,868.76,IndoSpirits Pvt Ltd.,Warehouse
+,2024-05-05,Maharashtra,Mumbai,Old Monk,Rum,298,200,320,18,200,577.6,IndoSpirits Pvt Ltd.,Wholesaler
+,2025-07-30,Tamil Nadu,Coimbatore,Kingfisher,Beer,303,50,216,18,300,554.88,ABC Beverages,Retailer
+,2024-05-04,Maharashtra,Mumbai,Bacardi,Rum,281,300,381,18,300,749.58,LiquorMart India,Retailer
+,2024-08-28,Karnataka,Mysuru,Blenders Pride,Whisky,134,400,456,18,300,838.08,Eastern Vintners,Retailer
+,2023-07-11,Delhi,New Delhi,Kingfisher,Beer,307,50,177,18,200,408.86,ABC Beverages,Distillery
+,2023-02-12,Delhi,New Delhi,Blenders Pride,Whisky,926,400,472,18,200,756.96,United Distributors Ltd.,Distillery
+,2023-07-23,Maharashtra,Mumbai,Old Monk,Rum,245,200,266,18,200,513.88,United Distributors Ltd.,Distillery
+,2024-07-25,Karnataka,Bengaluru,Old Monk,Rum,501,200,398,18,200,669.64,LiquorMart India,Wholesaler
+,2024-03-23,Punjab,Amritsar,Kingfisher,Beer,794,50,194,18,200,428.92,Eastern Vintners,Distillery
+,2024-09-18,Karnataka,Bengaluru,Old Monk,Rum,481,200,398,18,300,769.64,United Distributors Ltd.,Wholesaler
+,2023-10-08,West Bengal,Siliguri,Smirnoff,Vodka,680,320,497,18,200,786.46,IndoSpirits Pvt Ltd.,Retailer
+,2024-03-08,Delhi,New Delhi,Kingfisher,Beer,948,50,199,18,200,434.82,Eastern Vintners,Wholesaler
+,2024-03-16,Delhi,New Delhi,Blenders Pride,Whisky,376,400,515,18,300,907.7,IndoSpirits Pvt Ltd.,Retailer
+,2023-09-10,Maharashtra,Mumbai,Old Monk,Rum,304,200,271,18,250,569.78,ABC Beverages,Wholesaler
+,2023-11-13,West Bengal,Kolkata,Smirnoff,Vodka,888,320,420,18,200,695.6,Eastern Vintners,Wholesaler
+,2023-10-05,Karnataka,Mysuru,Smirnoff,Vodka,223,320,493,18,250,831.74,IndoSpirits Pvt Ltd.,Wholesaler
+,2023-03-08,Karnataka,Bengaluru,Smirnoff,Vodka,946,320,377,18,300,744.86,United Distributors Ltd.,Warehouse
+,2024-03-11,Tamil Nadu,Chennai,Kingfisher,Beer,680,50,232,18,200,473.76,ABC Beverages,Retailer
+,2025-01-16,Karnataka,Bengaluru,Kingfisher,Beer,362,50,208,18,250,495.44,ABC Beverages,Distillery
+,2024-03-21,Karnataka,Bengaluru,Smirnoff,Vodka,897,320,463,18,250,796.34,ABC Beverages,Wholesaler
+,2023-11-28,Maharashtra,Pune,Royal Stag,Whisky,930,350,545,18,250,893.1,IndoSpirits Pvt Ltd.,Wholesaler
+,2024-01-08,West Bengal,Kolkata,Blenders Pride,Whisky,256,400,565,18,200,866.7,LiquorMart India,Retailer
+,2025-07-01,Karnataka,Mysuru,Smirnoff,Vodka,399,320,454,18,300,835.72,United Distributors Ltd.,Retailer
+,2025-07-09,Maharashtra,Mumbai,Blenders Pride,Whisky,946,400,552,18,200,851.36,LiquorMart India,Wholesaler
+,2023-03-12,West Bengal,Siliguri,Smirnoff,Vodka,497,320,507,18,200,798.26,ABC Beverages,Distillery
+,2024-08-16,Tamil Nadu,Coimbatore,Kingfisher,Beer,501,50,132,18,300,455.76,LiquorMart India,Warehouse
+,2025-07-24,Karnataka,Mysuru,Bacardi,Rum,375,300,430,18,200,707.4,ABC Beverages,Distillery
+,2025-07-26,Maharashtra,Pune,Blenders Pride,Whisky,522,400,573,18,200,876.14,Eastern Vintners,Warehouse
+,2025-11-06,Delhi,New Delhi,Kingfisher,Beer,925,50,117,18,300,438.06,LiquorMart India,Retailer
+,2023-09-12,Tamil Nadu,Chennai,Bacardi,Rum,423,300,458,18,200,740.44,ABC Beverages,Retailer
+,2024-03-25,Delhi,New Delhi,Smirnoff,Vodka,800,320,451,18,200,732.18,Eastern Vintners,Retailer
+,2024-04-28,Karnataka,Mysuru,Blenders Pride,Whisky,511,400,576,18,250,929.68,ABC Beverages,Distillery
+,2023-12-10,Karnataka,Bengaluru,Blenders Pride,Whisky,939,400,590,18,300,996.2,United Distributors Ltd.,Distillery
+,2023-02-03,West Bengal,Kolkata,Bacardi,Rum,797,300,443,18,250,772.74,IndoSpirits Pvt Ltd.,Retailer
+,2025-11-15,Tamil Nadu,Coimbatore,Bacardi,Rum,622,300,456,18,300,838.08,LiquorMart India,Retailer
+,2023-11-08,Tamil Nadu,Chennai,Smirnoff,Vodka,511,320,405,18,250,727.9,IndoSpirits Pvt Ltd.,Warehouse
+,2024-08-01,Punjab,Ludhiana,Bacardi,Rum,949,300,458,18,200,740.44,IndoSpirits Pvt Ltd.,Retailer
+,2024-12-26,Karnataka,Bengaluru,Blenders Pride,Whisky,664,400,470,18,200,754.6,LiquorMart India,Distillery
+,2024-10-22,Tamil Nadu,Coimbatore,Smirnoff,Vodka,393,320,419,18,200,694.42,IndoSpirits Pvt Ltd.,Distillery
+,2025-09-15,Delhi,New Delhi,Blenders Pride,Whisky,194,400,600,18,200,908.0,Eastern Vintners,Wholesaler
+,2025-09-26,West Bengal,Kolkata,Kingfisher,Beer,733,50,134,18,250,408.12,United Distributors Ltd.,Retailer
+,2024-02-26,Tamil Nadu,Coimbatore,Old Monk,Rum,203,200,390,18,200,660.2,Eastern Vintners,Wholesaler
+,2023-08-05,West Bengal,Siliguri,Smirnoff,Vodka,475,320,382,18,250,700.76,United Distributors Ltd.,Warehouse
+,2025-02-04,West Bengal,Kolkata,Royal Stag,Whisky,458,350,510,18,300,901.8,Eastern Vintners,Wholesaler
+,2024-03-12,Delhi,New Delhi,Old Monk,Rum,937,200,296,18,300,649.28,Eastern Vintners,Retailer
+,2023-10-26,Punjab,Ludhiana,Royal Stag,Whisky,826,350,461,18,300,843.98,Eastern Vintners,Wholesaler
+,2023-05-11,Punjab,Amritsar,Kingfisher,Beer,114,50,136,18,250,410.48,IndoSpirits Pvt Ltd.,Warehouse
+,2024-04-15,West Bengal,Siliguri,Royal Stag,Whisky,641,350,428,18,300,805.04,ABC Beverages,Distillery
+,2024-04-25,West Bengal,Siliguri,Blenders Pride,Whisky,795,400,477,18,250,812.86,Eastern Vintners,Distillery
+,2024-05-15,Karnataka,Mysuru,Bacardi,Rum,274,300,461,18,300,843.98,ABC Beverages,Warehouse
+,2023-09-09,Tamil Nadu,Coimbatore,Royal Stag,Whisky,914,350,429,18,250,756.22,Eastern Vintners,Wholesaler
+,2023-03-12,Punjab,Ludhiana,Old Monk,Rum,655,200,363,18,200,628.34,ABC Beverages,Warehouse
+,2024-05-02,West Bengal,Kolkata,Royal Stag,Whisky,262,350,487,18,200,774.66,Eastern Vintners,Distillery
+,2023-06-27,Karnataka,Bengaluru,Bacardi,Rum,329,300,453,18,250,784.54,LiquorMart India,Wholesaler
+,2025-11-26,Tamil Nadu,Chennai,Bacardi,Rum,807,300,357,18,250,671.26,LiquorMart India,Wholesaler
+,2024-11-17,Tamil Nadu,Chennai,Bacardi,Rum,885,300,474,18,200,759.32,Eastern Vintners,Retailer
+,2023-01-10,Delhi,New Delhi,Blenders Pride,Whisky,175,400,501,18,300,891.18,ABC Beverages,Distillery
+,2024-10-04,Maharashtra,Pune,Kingfisher,Beer,159,50,132,18,300,455.76,ABC Beverages,Retailer
+,2023-07-15,West Bengal,Kolkata,Blenders Pride,Whisky,590,400,570,18,250,922.6,Eastern Vintners,Warehouse
+,2024-10-16,Maharashtra,Mumbai,Smirnoff,Vodka,774,320,458,18,300,840.44,ABC Beverages,Retailer
+,2024-12-17,Punjab,Ludhiana,Blenders Pride,Whisky,199,400,559,18,250,909.62,United Distributors Ltd.,Warehouse
+,2023-01-21,West Bengal,Kolkata,Bacardi,Rum,471,300,436,18,300,814.48,ABC Beverages,Warehouse
+,2023-01-08,Tamil Nadu,Coimbatore,Old Monk,Rum,629,200,321,18,200,578.78,ABC Beverages,Warehouse
+,2025-02-09,West Bengal,Siliguri,Smirnoff,Vodka,267,320,455,18,200,736.9,IndoSpirits Pvt Ltd.,Retailer
+,2025-10-25,Delhi,New Delhi,Kingfisher,Beer,871,50,140,18,200,365.2,United Distributors Ltd.,Retailer
+,2024-12-10,Tamil Nadu,Coimbatore,Kingfisher,Beer,602,50,114,18,250,384.52,Eastern Vintners,Wholesaler
+,2023-08-23,West Bengal,Siliguri,Kingfisher,Beer,396,50,216,18,250,504.88,IndoSpirits Pvt Ltd.,Retailer
+,2023-12-31,Delhi,New Delhi,Bacardi,Rum,457,300,465,18,200,748.7,LiquorMart India,Warehouse
+,2024-03-20,Karnataka,Bengaluru,Blenders Pride,Whisky,914,400,555,18,200,854.9,IndoSpirits Pvt Ltd.,Warehouse
+,2024-08-31,Delhi,New Delhi,Royal Stag,Whisky,681,350,473,18,250,808.14,ABC Beverages,Wholesaler
+,2023-07-21,Punjab,Amritsar,Royal Stag,Whisky,703,350,503,18,300,893.54,LiquorMart India,Wholesaler
+,2024-10-11,Delhi,New Delhi,Royal Stag,Whisky,607,350,409,18,250,732.62,United Distributors Ltd.,Wholesaler
+,2025-04-07,Karnataka,Bengaluru,Smirnoff,Vodka,483,320,413,18,250,737.34,IndoSpirits Pvt Ltd.,Retailer
+,2025-07-03,Maharashtra,Pune,Kingfisher,Beer,141,50,233,18,200,474.94,Eastern Vintners,Distillery
+,2023-11-15,Maharashtra,Mumbai,Smirnoff,Vodka,469,320,378,18,200,646.04,United Distributors Ltd.,Distillery
+,2025-03-17,West Bengal,Kolkata,Old Monk,Rum,645,200,305,18,250,609.9,LiquorMart India,Retailer
+,2023-02-17,Maharashtra,Pune,Bacardi,Rum,927,300,449,18,300,829.82,United Distributors Ltd.,Distillery
+,2025-01-22,Delhi,New Delhi,Royal Stag,Whisky,434,350,545,18,250,893.1,Eastern Vintners,Wholesaler
+,2024-10-27,Tamil Nadu,Coimbatore,Kingfisher,Beer,217,50,222,18,250,511.96,United Distributors Ltd.,Warehouse
+,2025-12-03,Punjab,Ludhiana,Old Monk,Rum,311,200,305,18,200,559.9,IndoSpirits Pvt Ltd.,Retailer
+,2023-05-20,Delhi,New Delhi,Blenders Pride,Whisky,781,400,477,18,250,812.86,IndoSpirits Pvt Ltd.,Distillery
+,2025-10-30,West Bengal,Siliguri,Kingfisher,Beer,734,50,109,18,200,328.62,IndoSpirits Pvt Ltd.,Warehouse
+,2023-08-07,Karnataka,Bengaluru,Old Monk,Rum,520,200,327,18,200,585.86,Eastern Vintners,Distillery
+,2024-10-21,West Bengal,Kolkata,Kingfisher,Beer,648,50,110,18,250,379.8,ABC Beverages,Retailer
+,2023-12-24,Delhi,New Delhi,Kingfisher,Beer,544,50,247,18,200,491.46,ABC Beverages,Wholesaler
+,2024-09-25,Maharashtra,Mumbai,Blenders Pride,Whisky,716,400,474,18,200,759.32,Eastern Vintners,Distillery
+,2024-11-26,Punjab,Amritsar,Kingfisher,Beer,868,50,113,18,200,333.34,Eastern Vintners,Distillery
+,2024-05-30,Maharashtra,Pune,Old Monk,Rum,880,200,262,18,250,559.16,United Distributors Ltd.,Warehouse
+,2023-06-29,Punjab,Ludhiana,Royal Stag,Whisky,695,350,537,18,300,933.66,IndoSpirits Pvt Ltd.,Warehouse
+,2025-10-04,Punjab,Amritsar,Blenders Pride,Whisky,304,400,580,18,250,934.4,Eastern Vintners,Distillery
+,2024-03-11,Maharashtra,Mumbai,Bacardi,Rum,344,300,354,18,250,667.72,LiquorMart India,Wholesaler
+,2023-04-28,West Bengal,Siliguri,Bacardi,Rum,671,300,407,18,200,680.26,Eastern Vintners,Distillery
+,2024-06-20,Karnataka,Mysuru,Bacardi,Rum,819,300,450,18,250,781.0,IndoSpirits Pvt Ltd.,Retailer
+,2024-04-06,West Bengal,Siliguri,Kingfisher,Beer,983,50,165,18,250,444.7,Eastern Vintners,Distillery
+,2023-04-02,Delhi,New Delhi,Smirnoff,Vodka,953,320,493,18,250,831.74,LiquorMart India,Warehouse
+,2024-02-15,Delhi,New Delhi,Bacardi,Rum,599,300,403,18,200,675.54,United Distributors Ltd.,Warehouse
+,2023-07-15,Punjab,Amritsar,Royal Stag,Whisky,322,350,538,18,200,834.84,ABC Beverages,Warehouse
+,2024-08-22,Delhi,New Delhi,Royal Stag,Whisky,478,350,502,18,250,842.36,Eastern Vintners,Wholesaler
+,2025-04-18,Maharashtra,Mumbai,Bacardi,Rum,522,300,357,18,300,721.26,ABC Beverages,Distillery
+,2023-07-21,West Bengal,Siliguri,Kingfisher,Beer,450,50,158,18,250,436.44,ABC Beverages,Warehouse
+,2024-09-13,Punjab,Amritsar,Royal Stag,Whisky,539,350,435,18,200,713.3,LiquorMart India,Distillery
+,2025-04-15,West Bengal,Kolkata,Smirnoff,Vodka,439,320,476,18,200,761.68,Eastern Vintners,Warehouse
+,2024-07-20,Punjab,Ludhiana,Royal Stag,Whisky,293,350,443,18,250,772.74,Eastern Vintners,Distillery
+,2025-01-21,Delhi,New Delhi,Royal Stag,Whisky,433,350,499,18,250,838.82,ABC Beverages,Distillery
+,2023-12-08,West Bengal,Kolkata,Bacardi,Rum,856,300,377,18,250,694.86,United Distributors Ltd.,Warehouse
+,2025-01-12,Tamil Nadu,Coimbatore,Bacardi,Rum,992,300,411,18,200,684.98,Eastern Vintners,Distillery
+,2024-07-25,Karnataka,Bengaluru,Blenders Pride,Whisky,655,400,530,18,250,875.4,LiquorMart India,Warehouse
+,2025-08-12,Karnataka,Bengaluru,Smirnoff,Vodka,263,320,412,18,250,736.16,LiquorMart India,Distillery
+,2024-06-24,Punjab,Ludhiana,Old Monk,Rum,992,200,297,18,250,600.46,IndoSpirits Pvt Ltd.,Retailer
+,2025-11-01,Delhi,New Delhi,Blenders Pride,Whisky,835,400,550,18,300,949.0,LiquorMart India,Warehouse
+,2023-11-20,West Bengal,Siliguri,Blenders Pride,Whisky,912,400,550,18,250,899.0,Eastern Vintners,Wholesaler
+,2024-05-28,Karnataka,Bengaluru,Blenders Pride,Whisky,667,400,541,18,250,888.38,Eastern Vintners,Distillery
+,2024-01-19,Tamil Nadu,Coimbatore,Blenders Pride,Whisky,952,400,509,18,250,850.62,ABC Beverages,Retailer
+,2023-04-16,West Bengal,Kolkata,Bacardi,Rum,648,300,406,18,200,679.08,ABC Beverages,Warehouse
+,2023-11-27,Delhi,New Delhi,Old Monk,Rum,528,200,303,18,200,557.54,ABC Beverages,Wholesaler
+,2025-02-27,Karnataka,Mysuru,Kingfisher,Beer,633,50,100,18,200,318.0,ABC Beverages,Retailer
+,2023-11-03,Punjab,Ludhiana,Smirnoff,Vodka,299,320,438,18,300,816.84,United Distributors Ltd.,Warehouse
+,2024-09-01,Tamil Nadu,Chennai,Bacardi,Rum,899,300,419,18,300,794.42,IndoSpirits Pvt Ltd.,Distillery
+,2024-05-25,West Bengal,Kolkata,Blenders Pride,Whisky,952,400,595,18,250,952.1,IndoSpirits Pvt Ltd.,Retailer
+,2023-06-14,Punjab,Amritsar,Kingfisher,Beer,606,50,250,18,200,495.0,ABC Beverages,Retailer
+,2024-11-22,West Bengal,Siliguri,Smirnoff,Vodka,618,320,403,18,200,675.54,Eastern Vintners,Wholesaler
+,2025-05-21,West Bengal,Siliguri,Kingfisher,Beer,727,50,133,18,250,406.94,United Distributors Ltd.,Distillery
+,2025-08-13,Karnataka,Mysuru,Royal Stag,Whisky,910,350,512,18,300,904.16,ABC Beverages,Warehouse
+,2025-01-15,Tamil Nadu,Coimbatore,Royal Stag,Whisky,194,350,525,18,300,919.5,ABC Beverages,Retailer
+,2024-08-05,Punjab,Ludhiana,Bacardi,Rum,469,300,355,18,250,668.9,United Distributors Ltd.,Warehouse
+,2023-11-09,Punjab,Ludhiana,Blenders Pride,Whisky,259,400,581,18,200,885.58,United Distributors Ltd.,Wholesaler
+,2024-10-24,Delhi,New Delhi,Kingfisher,Beer,808,50,181,18,250,463.58,Eastern Vintners,Warehouse
+,2024-10-16,West Bengal,Kolkata,Old Monk,Rum,617,200,386,18,300,755.48,United Distributors Ltd.,Retailer
+,2025-01-27,Delhi,New Delhi,Bacardi,Rum,687,300,437,18,200,715.66,IndoSpirits Pvt Ltd.,Distillery
+,2025-08-31,Punjab,Amritsar,Blenders Pride,Whisky,554,400,496,18,250,835.28,Eastern Vintners,Warehouse
+,2025-12-14,Tamil Nadu,Coimbatore,Smirnoff,Vodka,891,320,435,18,200,713.3,Eastern Vintners,Warehouse
+,2023-10-22,Delhi,New Delhi,Blenders Pride,Whisky,326,400,534,18,300,930.12,United Distributors Ltd.,Warehouse
+,2025-01-22,Punjab,Amritsar,Blenders Pride,Whisky,330,400,505,18,300,895.9,IndoSpirits Pvt Ltd.,Warehouse
+,2024-12-11,Tamil Nadu,Coimbatore,Kingfisher,Beer,530,50,175,18,300,506.5,IndoSpirits Pvt Ltd.,Retailer
+,2024-05-10,Maharashtra,Mumbai,Smirnoff,Vodka,264,320,380,18,300,748.4,LiquorMart India,Retailer
+,2024-08-06,Karnataka,Mysuru,Royal Stag,Whisky,403,350,519,18,250,862.42,IndoSpirits Pvt Ltd.,Distillery
+,2024-10-28,Karnataka,Mysuru,Smirnoff,Vodka,396,320,374,18,300,741.32,Eastern Vintners,Distillery
+,2023-12-20,Maharashtra,Pune,Old Monk,Rum,337,200,362,18,200,627.16,ABC Beverages,Retailer
+,2024-06-04,Punjab,Ludhiana,Old Monk,Rum,840,200,335,18,250,645.3,Eastern Vintners,Distillery
+,2025-05-04,Karnataka,Bengaluru,Old Monk,Rum,171,200,385,18,300,754.3,ABC Beverages,Retailer
+,2025-10-15,Maharashtra,Pune,Royal Stag,Whisky,926,350,465,18,200,748.7,ABC Beverages,Wholesaler
+,2024-05-25,Tamil Nadu,Chennai,Bacardi,Rum,472,300,487,18,250,824.66,IndoSpirits Pvt Ltd.,Distillery
+,2025-06-28,Maharashtra,Pune,Old Monk,Rum,190,200,256,18,300,602.08,Eastern Vintners,Warehouse
+,2024-12-05,West Bengal,Kolkata,Kingfisher,Beer,283,50,159,18,200,387.62,IndoSpirits Pvt Ltd.,Retailer
+,2025-11-08,Maharashtra,Pune,Bacardi,Rum,935,300,387,18,300,756.66,LiquorMart India,Distillery
+,2023-10-26,Tamil Nadu,Coimbatore,Royal Stag,Whisky,470,350,452,18,250,783.36,United Distributors Ltd.,Warehouse
+,2023-12-17,West Bengal,Siliguri,Old Monk,Rum,850,200,261,18,300,607.98,ABC Beverages,Distillery
+,2025-05-08,Tamil Nadu,Coimbatore,Smirnoff,Vodka,431,320,487,18,200,774.66,LiquorMart India,Wholesaler
+,2025-12-11,Delhi,New Delhi,Smirnoff,Vodka,354,320,476,18,250,811.68,United Distributors Ltd.,Wholesaler
+,2023-06-23,West Bengal,Siliguri,Bacardi,Rum,116,300,495,18,300,884.1,Eastern Vintners,Distillery
+,2024-03-17,West Bengal,Siliguri,Kingfisher,Beer,174,50,139,18,300,464.02,United Distributors Ltd.,Wholesaler
+,2025-01-02,Punjab,Amritsar,Old Monk,Rum,223,200,262,18,250,559.16,IndoSpirits Pvt Ltd.,Retailer
+,2024-06-29,Punjab,Amritsar,Kingfisher,Beer,659,50,159,18,200,387.62,LiquorMart India,Retailer
+,2023-06-13,Maharashtra,Mumbai,Royal Stag,Whisky,912,350,433,18,300,810.94,United Distributors Ltd.,Retailer
+,2023-03-05,West Bengal,Siliguri,Smirnoff,Vodka,900,320,460,18,250,792.8,IndoSpirits Pvt Ltd.,Wholesaler
+,2025-07-22,Maharashtra,Pune,Bacardi,Rum,823,300,448,18,300,828.64,ABC Beverages,Wholesaler
+,2023-09-18,Maharashtra,Mumbai,Royal Stag,Whisky,880,350,483,18,200,769.94,United Distributors Ltd.,Wholesaler
+,2023-11-09,Tamil Nadu,Chennai,Kingfisher,Beer,450,50,154,18,300,481.72,ABC Beverages,Wholesaler
+,2024-09-21,Maharashtra,Pune,Old Monk,Rum,752,200,358,18,300,722.44,Eastern Vintners,Wholesaler
+,2025-06-29,West Bengal,Siliguri,Old Monk,Rum,838,200,344,18,300,705.92,ABC Beverages,Retailer
+,2025-12-05,Karnataka,Mysuru,Smirnoff,Vodka,728,320,380,18,250,698.4,IndoSpirits Pvt Ltd.,Warehouse
+,2023-12-16,Delhi,New Delhi,Blenders Pride,Whisky,167,400,584,18,300,989.12,ABC Beverages,Retailer
+,2024-05-21,Maharashtra,Mumbai,Royal Stag,Whisky,562,350,496,18,250,835.28,LiquorMart India,Retailer
+,2023-07-05,Delhi,New Delhi,Old Monk,Rum,347,200,339,18,300,700.02,IndoSpirits Pvt Ltd.,Retailer
+,2023-10-10,Delhi,New Delhi,Kingfisher,Beer,376,50,173,18,250,454.14,United Distributors Ltd.,Retailer
+,2024-02-21,Punjab,Amritsar,Bacardi,Rum,248,300,355,18,200,618.9,United Distributors Ltd.,Distillery
+,2025-09-17,Tamil Nadu,Chennai,Kingfisher,Beer,550,50,188,18,300,521.84,Eastern Vintners,Distillery
+,2023-01-16,Punjab,Ludhiana,Royal Stag,Whisky,202,350,424,18,200,700.32,United Distributors Ltd.,Retailer
+,2025-12-28,West Bengal,Siliguri,Old Monk,Rum,858,200,278,18,300,628.04,ABC Beverages,Distillery
+,2024-02-20,Tamil Nadu,Chennai,Kingfisher,Beer,153,50,219,18,250,508.42,LiquorMart India,Retailer
+,2024-12-31,Karnataka,Mysuru,Royal Stag,Whisky,285,350,418,18,250,743.24,United Distributors Ltd.,Warehouse
+,2023-06-10,Karnataka,Bengaluru,Old Monk,Rum,877,200,348,18,200,610.64,ABC Beverages,Warehouse
+,2023-09-13,West Bengal,Siliguri,Bacardi,Rum,756,300,364,18,250,679.52,ABC Beverages,Warehouse
+,2024-08-01,Delhi,New Delhi,Blenders Pride,Whisky,817,400,554,18,300,953.72,Eastern Vintners,Distillery
+,2023-01-01,Punjab,Amritsar,Smirnoff,Vodka,297,320,466,18,250,799.88,ABC Beverages,Distillery
+,2023-03-12,Maharashtra,Pune,Smirnoff,Vodka,174,320,453,18,300,834.54,IndoSpirits Pvt Ltd.,Warehouse
+,2025-06-23,Punjab,Ludhiana,Kingfisher,Beer,364,50,107,18,250,376.26,Eastern Vintners,Wholesaler
+,2024-03-02,Punjab,Ludhiana,Kingfisher,Beer,784,50,193,18,200,427.74,ABC Beverages,Warehouse
+,2025-03-28,Delhi,New Delhi,Royal Stag,Whisky,149,350,480,18,300,866.4,United Distributors Ltd.,Distillery
+,2025-04-20,Tamil Nadu,Coimbatore,Royal Stag,Whisky,855,350,501,18,300,891.18,ABC Beverages,Warehouse
+,2025-04-11,West Bengal,Kolkata,Royal Stag,Whisky,613,350,546,18,300,944.28,United Distributors Ltd.,Wholesaler
+,2023-02-05,West Bengal,Kolkata,Smirnoff,Vodka,144,320,443,18,200,722.74,United Distributors Ltd.,Retailer
+,2024-06-06,Maharashtra,Pune,Blenders Pride,Whisky,453,400,472,18,250,806.96,Eastern Vintners,Retailer
+,2024-07-08,Tamil Nadu,Coimbatore,Kingfisher,Beer,632,50,133,18,300,456.94,LiquorMart India,Wholesaler
+,2024-06-01,Tamil Nadu,Coimbatore,Royal Stag,Whisky,428,350,420,18,200,695.6,ABC Beverages,Distillery
+,2024-04-24,West Bengal,Siliguri,Blenders Pride,Whisky,543,400,521,18,300,914.78,LiquorMart India,Distillery
+,2025-06-14,Delhi,New Delhi,Bacardi,Rum,506,300,397,18,250,718.46,Eastern Vintners,Distillery
+,2025-12-12,Tamil Nadu,Coimbatore,Kingfisher,Beer,586,50,102,18,300,420.36,LiquorMart India,Distillery
+,2023-04-16,Delhi,New Delhi,Kingfisher,Beer,683,50,178,18,250,460.04,IndoSpirits Pvt Ltd.,Distillery
+,2025-07-20,Maharashtra,Pune,Royal Stag,Whisky,589,350,506,18,200,797.08,LiquorMart India,Retailer
+,2025-11-15,West Bengal,Siliguri,Blenders Pride,Whisky,693,400,488,18,250,825.84,IndoSpirits Pvt Ltd.,Retailer
+,2024-05-24,Maharashtra,Mumbai,Royal Stag,Whisky,989,350,534,18,200,830.12,ABC Beverages,Distillery
+,2024-09-04,Punjab,Amritsar,Smirnoff,Vodka,403,320,500,18,200,790.0,Eastern Vintners,Warehouse
+,2025-02-02,West Bengal,Kolkata,Bacardi,Rum,594,300,432,18,250,759.76,LiquorMart India,Wholesaler
+,2025-03-03,Karnataka,Mysuru,Old Monk,Rum,142,200,302,18,250,606.36,LiquorMart India,Wholesaler
+,2023-04-27,Maharashtra,Pune,Smirnoff,Vodka,837,320,425,18,300,801.5,LiquorMart India,Retailer
+,2025-06-14,Punjab,Amritsar,Royal Stag,Whisky,485,350,516,18,200,808.88,LiquorMart India,Distillery
+,2024-08-30,Punjab,Ludhiana,Bacardi,Rum,273,300,393,18,200,663.74,United Distributors Ltd.,Retailer
+,2025-12-21,West Bengal,Kolkata,Kingfisher,Beer,699,50,177,18,250,458.86,IndoSpirits Pvt Ltd.,Warehouse
+,2024-01-21,Tamil Nadu,Chennai,Royal Stag,Whisky,459,350,517,18,200,810.06,United Distributors Ltd.,Retailer
+,2023-06-19,Delhi,New Delhi,Blenders Pride,Whisky,674,400,542,18,250,889.56,Eastern Vintners,Distillery
+,2023-11-16,Punjab,Amritsar,Kingfisher,Beer,483,50,125,18,200,347.5,United Distributors Ltd.,Distillery
+,2025-12-27,West Bengal,Kolkata,Bacardi,Rum,422,300,406,18,250,729.08,Eastern Vintners,Warehouse
+,2023-05-25,West Bengal,Kolkata,Blenders Pride,Whisky,938,400,491,18,200,779.38,United Distributors Ltd.,Retailer
+,2024-02-06,Punjab,Amritsar,Royal Stag,Whisky,728,350,525,18,300,919.5,IndoSpirits Pvt Ltd.,Retailer
+,2025-01-31,Punjab,Ludhiana,Blenders Pride,Whisky,946,400,454,18,200,735.72,Eastern Vintners,Distillery
+,2025-10-18,Tamil Nadu,Coimbatore,Royal Stag,Whisky,232,350,543,18,250,890.74,ABC Beverages,Warehouse
+,2023-03-04,Delhi,New Delhi,Smirnoff,Vodka,264,320,435,18,300,813.3,LiquorMart India,Warehouse
+,2024-07-06,Karnataka,Mysuru,Old Monk,Rum,742,200,377,18,250,694.86,LiquorMart India,Retailer
+,2024-01-15,Karnataka,Bengaluru,Kingfisher,Beer,389,50,130,18,300,453.4,LiquorMart India,Wholesaler
+,2025-02-18,West Bengal,Kolkata,Royal Stag,Whisky,600,350,410,18,200,683.8,IndoSpirits Pvt Ltd.,Warehouse
+,2023-10-19,West Bengal,Kolkata,Royal Stag,Whisky,547,350,479,18,300,865.22,ABC Beverages,Retailer
+,2023-04-20,Tamil Nadu,Coimbatore,Blenders Pride,Whisky,485,400,469,18,200,753.42,Eastern Vintners,Warehouse
+,2023-11-26,Tamil Nadu,Chennai,Old Monk,Rum,970,200,350,18,200,613.0,Eastern Vintners,Wholesaler
+,2023-04-18,Delhi,New Delhi,Kingfisher,Beer,236,50,223,18,250,513.14,Eastern Vintners,Warehouse
+,2025-05-23,Maharashtra,Mumbai,Smirnoff,Vodka,677,320,512,18,200,804.16,IndoSpirits Pvt Ltd.,Retailer
+,2025-03-09,Tamil Nadu,Chennai,Royal Stag,Whisky,224,350,438,18,250,766.84,Eastern Vintners,Warehouse
+,2023-10-19,Delhi,New Delhi,Blenders Pride,Whisky,925,400,586,18,300,991.48,IndoSpirits Pvt Ltd.,Distillery
+,2025-10-10,Maharashtra,Mumbai,Blenders Pride,Whisky,502,400,453,18,200,734.54,ABC Beverages,Warehouse
+,2023-11-14,West Bengal,Siliguri,Bacardi,Rum,737,300,498,18,300,887.64,Eastern Vintners,Distillery
+,2025-08-11,Delhi,New Delhi,Royal Stag,Whisky,642,350,444,18,200,723.92,Eastern Vintners,Distillery
+,2023-10-21,Maharashtra,Pune,Kingfisher,Beer,959,50,185,18,200,418.3,IndoSpirits Pvt Ltd.,Retailer
+,2024-03-24,Karnataka,Mysuru,Blenders Pride,Whisky,159,400,558,18,300,958.44,IndoSpirits Pvt Ltd.,Warehouse
+,2023-11-12,Punjab,Ludhiana,Royal Stag,Whisky,403,350,443,18,300,822.74,LiquorMart India,Retailer
+,2024-05-23,Punjab,Ludhiana,Blenders Pride,Whisky,348,400,596,18,200,903.28,LiquorMart India,Warehouse
+,2024-01-05,Maharashtra,Pune,Old Monk,Rum,231,200,269,18,250,567.42,Eastern Vintners,Retailer
+,2023-11-19,Punjab,Ludhiana,Smirnoff,Vodka,937,320,437,18,300,815.66,United Distributors Ltd.,Retailer
+,2023-12-23,West Bengal,Siliguri,Blenders Pride,Whisky,603,400,470,18,200,754.6,IndoSpirits Pvt Ltd.,Retailer
+,2025-01-29,Punjab,Ludhiana,Royal Stag,Whisky,174,350,403,18,200,675.54,Eastern Vintners,Warehouse
+,2023-03-28,West Bengal,Kolkata,Blenders Pride,Whisky,834,400,525,18,200,819.5,Eastern Vintners,Warehouse
+,2023-11-21,Maharashtra,Pune,Bacardi,Rum,883,300,449,18,300,829.82,ABC Beverages,Retailer
+,2023-01-01,Delhi,New Delhi,Kingfisher,Beer,841,50,146,18,300,472.28,LiquorMart India,Warehouse
+,2025-04-23,Maharashtra,Mumbai,Blenders Pride,Whisky,745,400,566,18,300,967.88,IndoSpirits Pvt Ltd.,Retailer
+,2025-12-29,Delhi,New Delhi,Old Monk,Rum,819,200,259,18,200,505.62,LiquorMart India,Retailer
+,2025-08-06,Karnataka,Bengaluru,Royal Stag,Whisky,787,350,438,18,300,816.84,United Distributors Ltd.,Wholesaler
+,2025-02-21,Karnataka,Mysuru,Blenders Pride,Whisky,512,400,593,18,250,949.74,ABC Beverages,Warehouse
+,2024-09-13,Karnataka,Bengaluru,Bacardi,Rum,710,300,497,18,250,836.46,Eastern Vintners,Wholesaler
+,2023-10-26,Tamil Nadu,Coimbatore,Old Monk,Rum,845,200,338,18,250,648.84,LiquorMart India,Warehouse
+,2024-06-08,Punjab,Ludhiana,Smirnoff,Vodka,984,320,440,18,250,769.2,IndoSpirits Pvt Ltd.,Retailer
+,2023-11-14,Karnataka,Bengaluru,Blenders Pride,Whisky,602,400,470,18,300,854.6,IndoSpirits Pvt Ltd.,Distillery
+,2024-06-01,Delhi,New Delhi,Blenders Pride,Whisky,980,400,562,18,250,913.16,United Distributors Ltd.,Retailer
+,2023-01-31,Delhi,New Delhi,Kingfisher,Beer,541,50,192,18,250,476.56,Eastern Vintners,Retailer
+,2023-09-09,Punjab,Amritsar,Blenders Pride,Whisky,295,400,506,18,300,897.08,LiquorMart India,Warehouse
+,2024-03-02,West Bengal,Siliguri,Blenders Pride,Whisky,660,400,467,18,200,751.06,IndoSpirits Pvt Ltd.,Wholesaler
+,2025-05-04,Delhi,New Delhi,Royal Stag,Whisky,349,350,541,18,250,888.38,ABC Beverages,Distillery
+,2024-10-25,Maharashtra,Mumbai,Kingfisher,Beer,596,50,120,18,300,441.6,IndoSpirits Pvt Ltd.,Distillery
+,2023-09-02,Delhi,New Delhi,Kingfisher,Beer,460,50,245,18,200,489.1,LiquorMart India,Distillery
+,2023-07-01,Tamil Nadu,Coimbatore,Blenders Pride,Whisky,139,400,506,18,250,847.08,IndoSpirits Pvt Ltd.,Retailer
+,2024-11-03,West Bengal,Kolkata,Blenders Pride,Whisky,822,400,539,18,300,936.02,IndoSpirits Pvt Ltd.,Warehouse
+,2025-03-15,Tamil Nadu,Chennai,Blenders Pride,Whisky,215,400,543,18,300,940.74,ABC Beverages,Warehouse
+,2024-12-06,West Bengal,Kolkata,Royal Stag,Whisky,995,350,468,18,250,802.24,LiquorMart India,Wholesaler
+,2023-02-11,Tamil Nadu,Chennai,Royal Stag,Whisky,118,350,514,18,300,906.52,United Distributors Ltd.,Wholesaler
+,2025-01-19,Tamil Nadu,Chennai,Blenders Pride,Whisky,879,400,529,18,200,824.22,LiquorMart India,Wholesaler
+,2024-03-21,Karnataka,Bengaluru,Kingfisher,Beer,210,50,143,18,200,368.74,Eastern Vintners,Distillery
+,2024-04-01,West Bengal,Kolkata,Old Monk,Rum,565,200,355,18,300,718.9,IndoSpirits Pvt Ltd.,Distillery
+,2023-01-15,Tamil Nadu,Coimbatore,Blenders Pride,Whisky,356,400,451,18,250,782.18,IndoSpirits Pvt Ltd.,Distillery
+,2025-02-06,West Bengal,Kolkata,Bacardi,Rum,655,300,387,18,200,656.66,United Distributors Ltd.,Distillery
+,2024-12-05,Karnataka,Mysuru,Kingfisher,Beer,309,50,187,18,200,420.66,United Distributors Ltd.,Distillery
+,2025-06-21,Maharashtra,Pune,Bacardi,Rum,400,300,368,18,300,734.24,LiquorMart India,Warehouse
+,2024-07-24,Tamil Nadu,Coimbatore,Bacardi,Rum,981,300,444,18,200,723.92,LiquorMart India,Retailer
+,2024-09-22,Maharashtra,Mumbai,Kingfisher,Beer,828,50,111,18,200,330.98,Eastern Vintners,Wholesaler
+,2025-11-07,Maharashtra,Mumbai,Blenders Pride,Whisky,291,400,572,18,300,974.96,United Distributors Ltd.,Wholesaler
+,2023-05-06,Maharashtra,Mumbai,Old Monk,Rum,842,200,256,18,200,502.08,ABC Beverages,Warehouse
+,2024-07-26,Tamil Nadu,Chennai,Blenders Pride,Whisky,167,400,535,18,250,881.3,LiquorMart India,Retailer
+,2024-12-08,Punjab,Amritsar,Blenders Pride,Whisky,850,400,467,18,250,801.06,Eastern Vintners,Warehouse
+,2023-09-29,West Bengal,Kolkata,Old Monk,Rum,269,200,368,18,200,634.24,United Distributors Ltd.,Warehouse
+,2025-11-14,West Bengal,Siliguri,Old Monk,Rum,863,200,384,18,300,753.12,United Distributors Ltd.,Distillery
+,2024-09-20,Maharashtra,Pune,Royal Stag,Whisky,993,350,413,18,300,787.34,United Distributors Ltd.,Warehouse
+,2023-07-26,Tamil Nadu,Chennai,Smirnoff,Vodka,385,320,469,18,200,753.42,Eastern Vintners,Retailer
+,2023-09-22,Punjab,Amritsar,Kingfisher,Beer,121,50,246,18,300,590.28,Eastern Vintners,Warehouse
+,2025-05-16,Delhi,New Delhi,Royal Stag,Whisky,253,350,466,18,300,849.88,LiquorMart India,Warehouse
+,2024-10-15,West Bengal,Kolkata,Blenders Pride,Whisky,677,400,584,18,250,939.12,Eastern Vintners,Warehouse
+,2024-06-07,Karnataka,Bengaluru,Kingfisher,Beer,145,50,163,18,200,392.34,ABC Beverages,Warehouse
+,2024-08-11,Punjab,Amritsar,Blenders Pride,Whisky,962,400,472,18,300,856.96,ABC Beverages,Warehouse
+,2025-07-04,West Bengal,Kolkata,Bacardi,Rum,689,300,421,18,250,746.78,ABC Beverages,Warehouse
+,2023-07-29,West Bengal,Kolkata,Royal Stag,Whisky,437,350,511,18,250,852.98,LiquorMart India,Warehouse
+,2024-04-13,Delhi,New Delhi,Royal Stag,Whisky,888,350,547,18,250,895.46,United Distributors Ltd.,Warehouse
+,2023-05-09,Maharashtra,Pune,Smirnoff,Vodka,968,320,390,18,300,760.2,LiquorMart India,Retailer
+,2023-01-01,West Bengal,Kolkata,Smirnoff,Vodka,305,320,467,18,250,801.06,United Distributors Ltd.,Warehouse
+,2024-08-20,Delhi,New Delhi,Royal Stag,Whisky,209,350,540,18,300,937.2,LiquorMart India,Wholesaler
+,2024-12-31,Tamil Nadu,Coimbatore,Smirnoff,Vodka,888,320,426,18,250,752.68,LiquorMart India,Retailer
+,2023-02-27,Karnataka,Mysuru,Kingfisher,Beer,444,50,173,18,200,404.14,IndoSpirits Pvt Ltd.,Wholesaler
+,2025-02-26,Karnataka,Bengaluru,Bacardi,Rum,945,300,402,18,300,774.36,United Distributors Ltd.,Warehouse
+,2024-08-28,Maharashtra,Mumbai,Bacardi,Rum,670,300,369,18,300,735.42,Eastern Vintners,Wholesaler
+,2024-01-02,Karnataka,Mysuru,Smirnoff,Vodka,790,320,495,18,250,834.1,ABC Beverages,Distillery
+,2025-10-19,West Bengal,Siliguri,Kingfisher,Beer,120,50,167,18,200,397.06,IndoSpirits Pvt Ltd.,Distillery
+,2023-12-13,Punjab,Amritsar,Smirnoff,Vodka,234,320,374,18,200,641.32,ABC Beverages,Wholesaler
+,2024-01-08,Punjab,Ludhiana,Royal Stag,Whisky,786,350,521,18,250,864.78,United Distributors Ltd.,Distillery
+,2025-05-31,Punjab,Ludhiana,Bacardi,Rum,444,300,427,18,250,753.86,IndoSpirits Pvt Ltd.,Retailer
+,2025-01-16,Tamil Nadu,Chennai,Kingfisher,Beer,335,50,191,18,250,475.38,ABC Beverages,Wholesaler
+,2025-10-10,Delhi,New Delhi,Old Monk,Rum,117,200,266,18,200,513.88,United Distributors Ltd.,Distillery
+,2023-02-18,Maharashtra,Mumbai,Royal Stag,Whisky,236,350,548,18,250,896.64,LiquorMart India,Warehouse
+,2025-07-01,Tamil Nadu,Coimbatore,Bacardi,Rum,933,300,486,18,300,873.48,Eastern Vintners,Retailer
+,2023-01-20,Delhi,New Delhi,Old Monk,Rum,784,200,314,18,250,620.52,LiquorMart India,Wholesaler
+,2023-06-03,Maharashtra,Mumbai,Kingfisher,Beer,224,50,223,18,200,463.14,Eastern Vintners,Warehouse
+,2023-06-06,West Bengal,Kolkata,Kingfisher,Beer,737,50,168,18,250,448.24,Eastern Vintners,Warehouse
+,2024-11-19,Tamil Nadu,Chennai,Smirnoff,Vodka,247,320,476,18,300,861.68,LiquorMart India,Warehouse
+,2024-06-17,Maharashtra,Mumbai,Blenders Pride,Whisky,649,400,550,18,250,899.0,United Distributors Ltd.,Distillery
+,2025-05-07,Punjab,Ludhiana,Smirnoff,Vodka,562,320,396,18,200,667.28,United Distributors Ltd.,Retailer
+,2023-08-10,Punjab,Ludhiana,Bacardi,Rum,580,300,356,18,200,620.08,Eastern Vintners,Wholesaler
+,2024-09-03,Karnataka,Mysuru,Old Monk,Rum,637,200,393,18,200,663.74,ABC Beverages,Retailer
+,2025-02-01,Delhi,New Delhi,Blenders Pride,Whisky,992,400,593,18,250,949.74,Eastern Vintners,Warehouse
+,2025-11-30,Punjab,Ludhiana,Smirnoff,Vodka,296,320,379,18,200,647.22,United Distributors Ltd.,Distillery
+,2023-02-17,Punjab,Amritsar,Bacardi,Rum,906,300,480,18,200,766.4,United Distributors Ltd.,Warehouse
+,2023-05-20,Maharashtra,Pune,Kingfisher,Beer,407,50,111,18,200,330.98,IndoSpirits Pvt Ltd.,Wholesaler
+,2023-01-15,Maharashtra,Mumbai,Smirnoff,Vodka,982,320,501,18,250,841.18,Eastern Vintners,Retailer
+,2024-03-09,Punjab,Amritsar,Blenders Pride,Whisky,381,400,515,18,250,857.7,United Distributors Ltd.,Wholesaler
+,2025-05-13,Punjab,Ludhiana,Bacardi,Rum,923,300,395,18,300,766.1,ABC Beverages,Wholesaler
+,2024-11-08,Punjab,Ludhiana,Kingfisher,Beer,488,50,119,18,300,440.42,ABC Beverages,Warehouse
+,2023-11-05,West Bengal,Siliguri,Blenders Pride,Whisky,768,400,461,18,250,793.98,ABC Beverages,Warehouse
+,2023-12-05,Maharashtra,Pune,Royal Stag,Whisky,836,350,512,18,250,854.16,Eastern Vintners,Wholesaler
+,2024-10-17,Delhi,New Delhi,Bacardi,Rum,542,300,419,18,200,694.42,ABC Beverages,Warehouse
+,2024-10-15,Delhi,New Delhi,Royal Stag,Whisky,467,350,427,18,250,753.86,Eastern Vintners,Wholesaler
+,2025-01-07,Delhi,New Delhi,Blenders Pride,Whisky,774,400,467,18,300,851.06,ABC Beverages,Distillery
+,2024-01-29,Maharashtra,Pune,Kingfisher,Beer,396,50,195,18,300,530.1,LiquorMart India,Retailer
+,2023-08-11,Maharashtra,Pune,Kingfisher,Beer,871,50,128,18,250,401.04,United Distributors Ltd.,Warehouse
+,2024-12-10,Karnataka,Bengaluru,Royal Stag,Whisky,519,350,500,18,300,890.0,United Distributors Ltd.,Distillery
+,2023-07-25,West Bengal,Kolkata,Smirnoff,Vodka,431,320,404,18,300,776.72,IndoSpirits Pvt Ltd.,Wholesaler
+,2023-11-11,Karnataka,Mysuru,Royal Stag,Whisky,304,350,419,18,300,794.42,LiquorMart India,Distillery
+,2025-04-13,Tamil Nadu,Coimbatore,Kingfisher,Beer,147,50,220,18,300,559.6,United Distributors Ltd.,Retailer
+,2024-07-18,Tamil Nadu,Chennai,Kingfisher,Beer,407,50,105,18,300,423.9,IndoSpirits Pvt Ltd.,Retailer
+,2023-06-15,West Bengal,Siliguri,Kingfisher,Beer,307,50,102,18,200,320.36,LiquorMart India,Retailer
+,2023-11-21,Punjab,Amritsar,Blenders Pride,Whisky,237,400,456,18,200,738.08,ABC Beverages,Warehouse
+,2024-09-22,Karnataka,Mysuru,Old Monk,Rum,570,200,277,18,300,626.86,IndoSpirits Pvt Ltd.,Wholesaler
+,2024-05-20,Karnataka,Bengaluru,Royal Stag,Whisky,508,350,492,18,250,830.56,IndoSpirits Pvt Ltd.,Distillery
+,2023-08-17,Punjab,Ludhiana,Smirnoff,Vodka,907,320,516,18,300,908.88,LiquorMart India,Distillery
+,2024-02-26,Delhi,New Delhi,Bacardi,Rum,789,300,459,18,300,841.62,LiquorMart India,Warehouse
+,2023-07-29,Maharashtra,Pune,Kingfisher,Beer,772,50,183,18,300,515.94,ABC Beverages,Wholesaler
+,2023-11-08,West Bengal,Siliguri,Kingfisher,Beer,729,50,144,18,300,469.92,IndoSpirits Pvt Ltd.,Wholesaler
+,2024-11-03,Tamil Nadu,Coimbatore,Royal Stag,Whisky,111,350,516,18,250,858.88,LiquorMart India,Distillery
+,2025-06-11,Maharashtra,Mumbai,Old Monk,Rum,985,200,265,18,200,512.7,IndoSpirits Pvt Ltd.,Warehouse
+,2025-01-28,Punjab,Amritsar,Blenders Pride,Whisky,262,400,537,18,250,883.66,Eastern Vintners,Retailer
+,2025-04-26,Delhi,New Delhi,Bacardi,Rum,205,300,356,18,250,670.08,United Distributors Ltd.,Wholesaler
+,2024-07-23,Tamil Nadu,Coimbatore,Royal Stag,Whisky,300,350,475,18,300,860.5,United Distributors Ltd.,Warehouse
+,2025-02-08,Delhi,New Delhi,Old Monk,Rum,720,200,272,18,200,520.96,LiquorMart India,Distillery
+,2025-12-24,West Bengal,Kolkata,Blenders Pride,Whisky,249,400,571,18,300,973.78,IndoSpirits Pvt Ltd.,Retailer
+,2024-05-02,Tamil Nadu,Chennai,Old Monk,Rum,349,200,307,18,200,562.26,ABC Beverages,Wholesaler
+,2025-09-17,West Bengal,Siliguri,Kingfisher,Beer,210,50,111,18,250,380.98,LiquorMart India,Retailer
+,2023-04-05,Maharashtra,Pune,Smirnoff,Vodka,813,320,411,18,250,734.98,ABC Beverages,Distillery
+,2023-10-26,Tamil Nadu,Chennai,Blenders Pride,Whisky,789,400,484,18,200,771.12,IndoSpirits Pvt Ltd.,Warehouse
+,2025-06-16,Tamil Nadu,Coimbatore,Royal Stag,Whisky,686,350,418,18,200,693.24,United Distributors Ltd.,Retailer
+,2025-08-13,Punjab,Amritsar,Smirnoff,Vodka,165,320,493,18,300,881.74,LiquorMart India,Warehouse
+,2023-11-16,Tamil Nadu,Coimbatore,Kingfisher,Beer,951,50,203,18,250,489.54,United Distributors Ltd.,Warehouse
+,2023-09-09,Maharashtra,Pune,Smirnoff,Vodka,247,320,508,18,300,899.44,United Distributors Ltd.,Distillery
+,2025-10-26,Delhi,New Delhi,Smirnoff,Vodka,113,320,457,18,200,739.26,United Distributors Ltd.,Distillery
+,2023-01-05,Karnataka,Bengaluru,Royal Stag,Whisky,723,350,407,18,300,780.26,LiquorMart India,Wholesaler
+,2025-10-01,Tamil Nadu,Coimbatore,Old Monk,Rum,328,200,374,18,300,741.32,IndoSpirits Pvt Ltd.,Warehouse
+,2023-04-29,Maharashtra,Mumbai,Kingfisher,Beer,613,50,208,18,200,445.44,United Distributors Ltd.,Retailer
+,2023-12-03,Tamil Nadu,Chennai,Kingfisher,Beer,971,50,243,18,250,536.74,LiquorMart India,Warehouse
+,2024-06-21,Maharashtra,Mumbai,Smirnoff,Vodka,441,320,491,18,300,879.38,United Distributors Ltd.,Distillery
+,2024-01-04,Punjab,Ludhiana,Blenders Pride,Whisky,232,400,496,18,300,885.28,IndoSpirits Pvt Ltd.,Wholesaler
+,2024-10-01,Delhi,New Delhi,Kingfisher,Beer,756,50,175,18,250,456.5,ABC Beverages,Wholesaler
+,2023-09-19,Maharashtra,Mumbai,Old Monk,Rum,864,200,288,18,250,589.84,United Distributors Ltd.,Distillery
+,2024-09-01,Tamil Nadu,Coimbatore,Blenders Pride,Whisky,551,400,545,18,250,893.1,Eastern Vintners,Distillery
+,2025-08-05,Karnataka,Mysuru,Kingfisher,Beer,281,50,113,18,200,333.34,LiquorMart India,Wholesaler
+,2023-10-05,Maharashtra,Mumbai,Royal Stag,Whisky,165,350,412,18,300,786.16,United Distributors Ltd.,Wholesaler
+,2023-12-18,Punjab,Amritsar,Kingfisher,Beer,842,50,190,18,250,474.2,United Distributors Ltd.,Retailer
+,2023-03-24,Punjab,Ludhiana,Old Monk,Rum,351,200,258,18,200,504.44,IndoSpirits Pvt Ltd.,Retailer
+,2024-11-06,Maharashtra,Mumbai,Bacardi,Rum,510,300,421,18,300,796.78,LiquorMart India,Distillery
+,2024-03-18,Karnataka,Bengaluru,Royal Stag,Whisky,811,350,465,18,300,848.7,LiquorMart India,Wholesaler
+,2025-01-06,Punjab,Amritsar,Blenders Pride,Whisky,618,400,458,18,300,840.44,United Distributors Ltd.,Retailer
+,2023-11-25,West Bengal,Kolkata,Kingfisher,Beer,755,50,168,18,300,498.24,United Distributors Ltd.,Retailer
+,2023-10-26,Punjab,Ludhiana,Bacardi,Rum,794,300,454,18,250,785.72,IndoSpirits Pvt Ltd.,Wholesaler
+,2025-07-25,Punjab,Ludhiana,Kingfisher,Beer,277,50,241,18,200,484.38,United Distributors Ltd.,Wholesaler
+,2024-06-16,Karnataka,Bengaluru,Blenders Pride,Whisky,141,400,523,18,300,917.14,LiquorMart India,Warehouse
+,2024-10-22,Punjab,Amritsar,Blenders Pride,Whisky,313,400,549,18,300,947.82,United Distributors Ltd.,Wholesaler
+,2024-08-04,Maharashtra,Pune,Smirnoff,Vodka,938,320,500,18,250,840.0,Eastern Vintners,Retailer
+,2023-06-29,West Bengal,Kolkata,Royal Stag,Whisky,469,350,503,18,200,793.54,United Distributors Ltd.,Retailer
+,2024-11-01,West Bengal,Kolkata,Smirnoff,Vodka,759,320,464,18,300,847.52,IndoSpirits Pvt Ltd.,Distillery
+,2023-05-28,Delhi,New Delhi,Bacardi,Rum,868,300,450,18,300,831.0,Eastern Vintners,Wholesaler
+,2024-01-29,Punjab,Ludhiana,Smirnoff,Vodka,969,320,516,18,300,908.88,ABC Beverages,Retailer
+,2023-10-06,Maharashtra,Mumbai,Kingfisher,Beer,999,50,241,18,300,584.38,ABC Beverages,Retailer
+,2025-03-22,West Bengal,Kolkata,Kingfisher,Beer,864,50,147,18,300,473.46,Eastern Vintners,Retailer
+,2025-10-05,West Bengal,Siliguri,Royal Stag,Whisky,126,350,509,18,250,850.62,IndoSpirits Pvt Ltd.,Retailer
+,2023-02-06,Maharashtra,Pune,Old Monk,Rum,337,200,267,18,200,515.06,ABC Beverages,Retailer
+,2025-07-12,Karnataka,Mysuru,Blenders Pride,Whisky,349,400,521,18,250,864.78,IndoSpirits Pvt Ltd.,Retailer
+,2025-06-09,Maharashtra,Pune,Blenders Pride,Whisky,285,400,554,18,200,853.72,United Distributors Ltd.,Distillery
+,2023-12-23,West Bengal,Siliguri,Smirnoff,Vodka,892,320,474,18,200,759.32,United Distributors Ltd.,Warehouse
+,2025-06-09,West Bengal,Siliguri,Smirnoff,Vodka,553,320,473,18,300,858.14,ABC Beverages,Retailer
+,2023-06-11,West Bengal,Siliguri,Bacardi,Rum,780,300,376,18,250,693.68,IndoSpirits Pvt Ltd.,Wholesaler
+,2024-10-12,Punjab,Ludhiana,Blenders Pride,Whisky,768,400,555,18,300,954.9,United Distributors Ltd.,Warehouse
+,2025-09-09,Tamil Nadu,Chennai,Kingfisher,Beer,233,50,192,18,300,526.56,Eastern Vintners,Distillery
+,2025-06-30,West Bengal,Kolkata,Bacardi,Rum,209,300,360,18,250,674.8,ABC Beverages,Warehouse
+,2024-09-01,Maharashtra,Pune,Old Monk,Rum,716,200,390,18,200,660.2,IndoSpirits Pvt Ltd.,Warehouse
+,2023-09-09,Delhi,New Delhi,Smirnoff,Vodka,631,320,457,18,300,839.26,IndoSpirits Pvt Ltd.,Distillery
+,2025-12-27,Karnataka,Mysuru,Kingfisher,Beer,838,50,247,18,200,491.46,LiquorMart India,Warehouse
+,2024-01-20,Karnataka,Mysuru,Royal Stag,Whisky,852,350,429,18,200,706.22,LiquorMart India,Retailer
+,2025-01-07,Tamil Nadu,Chennai,Royal Stag,Whisky,992,350,477,18,300,862.86,IndoSpirits Pvt Ltd.,Wholesaler
+,2024-01-24,Karnataka,Mysuru,Royal Stag,Whisky,618,350,462,18,250,795.16,United Distributors Ltd.,Distillery
+,2024-04-23,Delhi,New Delhi,Bacardi,Rum,726,300,351,18,300,714.18,ABC Beverages,Retailer
+,2024-07-09,West Bengal,Siliguri,Bacardi,Rum,760,300,484,18,250,821.12,LiquorMart India,Distillery
+,2023-02-08,Delhi,New Delhi,Blenders Pride,Whisky,573,400,457,18,250,789.26,IndoSpirits Pvt Ltd.,Distillery
+,2024-09-21,Maharashtra,Mumbai,Kingfisher,Beer,339,50,184,18,250,467.12,United Distributors Ltd.,Warehouse
+,2023-02-17,West Bengal,Siliguri,Blenders Pride,Whisky,870,400,464,18,300,847.52,LiquorMart India,Warehouse
+,2023-01-16,Maharashtra,Pune,Old Monk,Rum,322,200,337,18,250,647.66,LiquorMart India,Wholesaler
+,2023-07-02,Karnataka,Bengaluru,Blenders Pride,Whisky,505,400,481,18,250,817.58,IndoSpirits Pvt Ltd.,Distillery
+,2023-03-23,Tamil Nadu,Chennai,Old Monk,Rum,670,200,392,18,200,662.56,LiquorMart India,Retailer
+,2024-03-31,Karnataka,Mysuru,Royal Stag,Whisky,309,350,545,18,250,893.1,Eastern Vintners,Retailer
+,2023-10-24,Delhi,New Delhi,Smirnoff,Vodka,179,320,465,18,250,798.7,IndoSpirits Pvt Ltd.,Wholesaler
+,2024-06-11,Punjab,Ludhiana,Royal Stag,Whisky,825,350,528,18,250,873.04,IndoSpirits Pvt Ltd.,Warehouse
+,2024-07-02,Punjab,Amritsar,Smirnoff,Vodka,604,320,517,18,250,860.06,United Distributors Ltd.,Wholesaler
+,2024-07-22,Punjab,Amritsar,Old Monk,Rum,913,200,394,18,300,764.92,IndoSpirits Pvt Ltd.,Distillery
+,2024-06-24,Punjab,Amritsar,Bacardi,Rum,371,300,380,18,250,698.4,LiquorMart India,Retailer
+,2023-11-30,Karnataka,Mysuru,Smirnoff,Vodka,176,320,513,18,200,805.34,LiquorMart India,Wholesaler
+,2024-12-05,Maharashtra,Mumbai,Smirnoff,Vodka,537,320,497,18,250,836.46,United Distributors Ltd.,Wholesaler
+,2024-12-29,Maharashtra,Pune,Blenders Pride,Whisky,846,400,462,18,300,845.16,IndoSpirits Pvt Ltd.,Retailer
+,2024-08-22,Tamil Nadu,Coimbatore,Bacardi,Rum,764,300,452,18,300,833.36,Eastern Vintners,Retailer
+,2023-09-11,West Bengal,Kolkata,Blenders Pride,Whisky,476,400,453,18,200,734.54,ABC Beverages,Distillery
+,2025-02-13,West Bengal,Siliguri,Smirnoff,Vodka,252,320,402,18,250,724.36,IndoSpirits Pvt Ltd.,Warehouse
+,2024-10-02,Maharashtra,Mumbai,Blenders Pride,Whisky,576,400,492,18,250,830.56,United Distributors Ltd.,Distillery
+,2023-04-07,Delhi,New Delhi,Old Monk,Rum,246,200,295,18,200,548.1,Eastern Vintners,Wholesaler
+,2025-01-15,Punjab,Ludhiana,Bacardi,Rum,877,300,456,18,200,738.08,LiquorMart India,Wholesaler
+,2025-09-30,West Bengal,Kolkata,Old Monk,Rum,101,200,386,18,200,655.48,ABC Beverages,Retailer
+,2024-02-06,Maharashtra,Mumbai,Bacardi,Rum,618,300,426,18,250,752.68,United Distributors Ltd.,Wholesaler
+,2025-05-03,Delhi,New Delhi,Smirnoff,Vodka,634,320,461,18,200,743.98,ABC Beverages,Warehouse
+,2024-01-31,Karnataka,Bengaluru,Royal Stag,Whisky,222,350,427,18,250,753.86,LiquorMart India,Warehouse
+,2023-11-02,West Bengal,Kolkata,Blenders Pride,Whisky,154,400,556,18,300,956.08,ABC Beverages,Warehouse
+,2025-11-14,West Bengal,Siliguri,Kingfisher,Beer,631,50,150,18,250,427.0,ABC Beverages,Distillery
+,2023-07-07,West Bengal,Kolkata,Bacardi,Rum,577,300,468,18,200,752.24,ABC Beverages,Retailer
+,2024-03-18,Karnataka,Bengaluru,Kingfisher,Beer,111,50,157,18,200,385.26,IndoSpirits Pvt Ltd.,Warehouse
